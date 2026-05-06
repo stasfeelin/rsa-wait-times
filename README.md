@@ -2,7 +2,7 @@
 
 A simple dashboard showing estimated waiting times for all RSA driving test centres in Ireland.
 
-🔗 **Live site:** [https://stas.github.io/rsa-wait-times](https://stas.github.io/rsa-wait-times)
+🔗 **Live site:** [https://stasfeelin.github.io/rsa-wait-times](https://stasfeelin.github.io/rsa-wait-times)
 
 ## How it works
 
