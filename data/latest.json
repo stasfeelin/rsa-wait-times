@@ -1,348 +1,348 @@
 {
-  "scraped_at": "2026-05-25T11:55:49.556486+00:00",
-  "model_published": "2026-05-22",
+  "scraped_at": "2026-06-01T13:36:40.470804+00:00",
+  "model_published": "2026-05-28",
   "centres": [
     {
-      "name": "Kilrush",
-      "invite_week": "2026-07-13",
-      "weeks_wait": 8,
-      "queue_position": 140
-    },
-    {
-      "name": "Tipperary",
-      "invite_week": "2026-07-20",
-      "weeks_wait": 9,
-      "queue_position": 281
-    },
-    {
       "name": "Carlow",
-      "invite_week": "2026-07-27",
-      "weeks_wait": 10,
-      "queue_position": 519
+      "invite_week": "2026-07-26",
+      "weeks_wait": 9,
+      "queue_position": 541
     },
     {
       "name": "Finglas",
-      "invite_week": "2026-07-27",
-      "weeks_wait": 10,
-      "queue_position": 2063
-    },
-    {
-      "name": "Galway - Clybaun Hotel",
-      "invite_week": "2026-07-27",
-      "weeks_wait": 10,
-      "queue_position": 894
-    },
-    {
-      "name": "Limerick - Castlemungret",
-      "invite_week": "2026-07-27",
-      "weeks_wait": 10,
-      "queue_position": 803
+      "invite_week": "2026-07-26",
+      "weeks_wait": 9,
+      "queue_position": 1826
     },
     {
       "name": "Mallow (Cork Racecourse Mallow)",
-      "invite_week": "2026-07-27",
-      "weeks_wait": 10,
-      "queue_position": 1047
+      "invite_week": "2026-07-26",
+      "weeks_wait": 9,
+      "queue_position": 923
     },
     {
-      "name": "Roscommon",
-      "invite_week": "2026-07-27",
-      "weeks_wait": 10,
-      "queue_position": 389
+      "name": "Sligo",
+      "invite_week": "2026-07-26",
+      "weeks_wait": 9,
+      "queue_position": 426
     },
     {
-      "name": "Skibbereen",
-      "invite_week": "2026-07-27",
-      "weeks_wait": 10,
-      "queue_position": 497
-    },
-    {
-      "name": "Tuam",
-      "invite_week": "2026-07-27",
-      "weeks_wait": 10,
-      "queue_position": 566
-    },
-    {
-      "name": "Wicklow",
-      "invite_week": "2026-07-27",
-      "weeks_wait": 10,
-      "queue_position": 626
-    },
-    {
-      "name": "Buncrana",
-      "invite_week": "2026-08-03",
-      "weeks_wait": 11,
-      "queue_position": 255
-    },
-    {
-      "name": "Carrick On Shannon",
-      "invite_week": "2026-08-03",
-      "weeks_wait": 11,
-      "queue_position": 361
-    },
-    {
-      "name": "Clifden",
-      "invite_week": "2026-08-03",
-      "weeks_wait": 11,
-      "queue_position": 122
-    },
-    {
-      "name": "Cork (Wilton)",
-      "invite_week": "2026-08-03",
-      "weeks_wait": 11,
-      "queue_position": 3106
+      "name": "Tipperary",
+      "invite_week": "2026-07-26",
+      "weeks_wait": 9,
+      "queue_position": 277
     },
     {
       "name": "Dundalk",
-      "invite_week": "2026-08-03",
-      "weeks_wait": 11,
-      "queue_position": 1616
+      "invite_week": "2026-08-02",
+      "weeks_wait": 10,
+      "queue_position": 1456
     },
     {
-      "name": "Longford",
-      "invite_week": "2026-08-03",
-      "weeks_wait": 11,
-      "queue_position": 349
+      "name": "Galway - Clybaun Hotel",
+      "invite_week": "2026-08-02",
+      "weeks_wait": 10,
+      "queue_position": 923
     },
     {
-      "name": "Mitchelstown",
-      "invite_week": "2026-08-03",
+      "name": "Limerick - Castlemungret",
+      "invite_week": "2026-08-02",
+      "weeks_wait": 10,
+      "queue_position": 818
+    },
+    {
+      "name": "Roscommon",
+      "invite_week": "2026-08-02",
+      "weeks_wait": 10,
+      "queue_position": 386
+    },
+    {
+      "name": "Wicklow",
+      "invite_week": "2026-08-02",
+      "weeks_wait": 10,
+      "queue_position": 654
+    },
+    {
+      "name": "Cork (Wilton)",
+      "invite_week": "2026-08-09",
       "weeks_wait": 11,
-      "queue_position": 540
+      "queue_position": 3195
+    },
+    {
+      "name": "Dungarvan",
+      "invite_week": "2026-08-09",
+      "weeks_wait": 11,
+      "queue_position": 682
+    },
+    {
+      "name": "Ennis",
+      "invite_week": "2026-08-09",
+      "weeks_wait": 11,
+      "queue_position": 560
+    },
+    {
+      "name": "Limerick - Woodview",
+      "invite_week": "2026-08-09",
+      "weeks_wait": 11,
+      "queue_position": 718
     },
     {
       "name": "Mulhuddart Maple House",
-      "invite_week": "2026-08-03",
+      "invite_week": "2026-08-09",
       "weeks_wait": 11,
-      "queue_position": 877
+      "queue_position": 891
     },
     {
       "name": "Naas",
-      "invite_week": "2026-08-03",
+      "invite_week": "2026-08-09",
       "weeks_wait": 11,
-      "queue_position": 2178
+      "queue_position": 2122
     },
     {
       "name": "Nenagh",
-      "invite_week": "2026-08-03",
+      "invite_week": "2026-08-09",
       "weeks_wait": 11,
       "queue_position": 358
     },
     {
       "name": "Newcastle West",
-      "invite_week": "2026-08-03",
+      "invite_week": "2026-08-09",
       "weeks_wait": 11,
-      "queue_position": 730
+      "queue_position": 708
     },
     {
-      "name": "Sligo",
-      "invite_week": "2026-08-03",
+      "name": "Skibbereen",
+      "invite_week": "2026-08-09",
       "weeks_wait": 11,
-      "queue_position": 528
+      "queue_position": 494
     },
     {
-      "name": "Thurles",
-      "invite_week": "2026-08-03",
+      "name": "Tuam",
+      "invite_week": "2026-08-09",
       "weeks_wait": 11,
-      "queue_position": 358
-    },
-    {
-      "name": "Birr",
-      "invite_week": "2026-08-10",
-      "weeks_wait": 12,
-      "queue_position": 519
-    },
-    {
-      "name": "Carlow Talbot Hotel",
-      "invite_week": "2026-08-10",
-      "weeks_wait": 12,
-      "queue_position": 706
-    },
-    {
-      "name": "Castlebar",
-      "invite_week": "2026-08-10",
-      "weeks_wait": 12,
-      "queue_position": 733
-    },
-    {
-      "name": "Clonmel",
-      "invite_week": "2026-08-10",
-      "weeks_wait": 12,
-      "queue_position": 681
-    },
-    {
-      "name": "Ennis",
-      "invite_week": "2026-08-10",
-      "weeks_wait": 12,
-      "queue_position": 594
-    },
-    {
-      "name": "Gorey",
-      "invite_week": "2026-08-10",
-      "weeks_wait": 12,
-      "queue_position": 778
-    },
-    {
-      "name": "Kilkenny (O'Loughlin Gaels)",
-      "invite_week": "2026-08-10",
-      "weeks_wait": 12,
-      "queue_position": 366
-    },
-    {
-      "name": "Letterkenny",
-      "invite_week": "2026-08-10",
-      "weeks_wait": 12,
-      "queue_position": 801
-    },
-    {
-      "name": "Limerick - Woodview",
-      "invite_week": "2026-08-10",
-      "weeks_wait": 12,
-      "queue_position": 777
-    },
-    {
-      "name": "Monaghan",
-      "invite_week": "2026-08-10",
-      "weeks_wait": 12,
-      "queue_position": 291
-    },
-    {
-      "name": "Navan",
-      "invite_week": "2026-08-10",
-      "weeks_wait": 12,
-      "queue_position": 1732
+      "queue_position": 604
     },
     {
       "name": "Wexford",
-      "invite_week": "2026-08-10",
+      "invite_week": "2026-08-09",
+      "weeks_wait": 11,
+      "queue_position": 757
+    },
+    {
+      "name": "Birr",
+      "invite_week": "2026-08-16",
+      "weeks_wait": 12,
+      "queue_position": 508
+    },
+    {
+      "name": "Buncrana",
+      "invite_week": "2026-08-16",
+      "weeks_wait": 12,
+      "queue_position": 279
+    },
+    {
+      "name": "Dun Laoghaire / Deansgrange",
+      "invite_week": "2026-08-16",
+      "weeks_wait": 12,
+      "queue_position": 3942
+    },
+    {
+      "name": "Galway (Carnmore)",
+      "invite_week": "2026-08-16",
+      "weeks_wait": 12,
+      "queue_position": 579
+    },
+    {
+      "name": "Gorey",
+      "invite_week": "2026-08-16",
       "weeks_wait": 12,
       "queue_position": 791
     },
     {
-      "name": "Athlone",
-      "invite_week": "2026-08-17",
-      "weeks_wait": 13,
-      "queue_position": 784
+      "name": "Kilkenny (O'Loughlin Gaels)",
+      "invite_week": "2026-08-16",
+      "weeks_wait": 12,
+      "queue_position": 371
     },
     {
-      "name": "Ballina",
-      "invite_week": "2026-08-17",
-      "weeks_wait": 13,
-      "queue_position": 519
+      "name": "Longford",
+      "invite_week": "2026-08-16",
+      "weeks_wait": 12,
+      "queue_position": 398
     },
     {
-      "name": "Dun Laoghaire / Deansgrange",
-      "invite_week": "2026-08-17",
-      "weeks_wait": 13,
-      "queue_position": 4096
-    },
-    {
-      "name": "Killarney",
-      "invite_week": "2026-08-17",
-      "weeks_wait": 13,
-      "queue_position": 460
+      "name": "Mitchelstown",
+      "invite_week": "2026-08-16",
+      "weeks_wait": 12,
+      "queue_position": 555
     },
     {
       "name": "Mullingar",
-      "invite_week": "2026-08-17",
-      "weeks_wait": 13,
-      "queue_position": 1068
+      "invite_week": "2026-08-16",
+      "weeks_wait": 12,
+      "queue_position": 1011
+    },
+    {
+      "name": "Navan",
+      "invite_week": "2026-08-16",
+      "weeks_wait": 12,
+      "queue_position": 1790
     },
     {
       "name": "Shannon",
-      "invite_week": "2026-08-17",
-      "weeks_wait": 13,
-      "queue_position": 294
+      "invite_week": "2026-08-16",
+      "weeks_wait": 12,
+      "queue_position": 250
     },
     {
-      "name": "Tallaght",
-      "invite_week": "2026-08-17",
-      "weeks_wait": 13,
-      "queue_position": 5918
+      "name": "Thurles",
+      "invite_week": "2026-08-16",
+      "weeks_wait": 12,
+      "queue_position": 388
     },
     {
       "name": "Tullamore",
-      "invite_week": "2026-08-17",
+      "invite_week": "2026-08-16",
+      "weeks_wait": 12,
+      "queue_position": 809
+    },
+    {
+      "name": "Athlone",
+      "invite_week": "2026-08-23",
       "weeks_wait": 13,
-      "queue_position": 845
+      "queue_position": 737
     },
     {
-      "name": "Cavan",
-      "invite_week": "2026-08-24",
-      "weeks_wait": 14,
-      "queue_position": 834
+      "name": "Carlow Talbot Hotel",
+      "invite_week": "2026-08-23",
+      "weeks_wait": 13,
+      "queue_position": 734
     },
     {
-      "name": "Galway (Carnmore)",
-      "invite_week": "2026-08-24",
-      "weeks_wait": 14,
-      "queue_position": 637
+      "name": "Carrick On Shannon",
+      "invite_week": "2026-08-23",
+      "weeks_wait": 13,
+      "queue_position": 421
     },
     {
-      "name": "Portlaoise - Maldron Hotel",
-      "invite_week": "2026-08-24",
-      "weeks_wait": 14,
-      "queue_position": 927
+      "name": "Castlebar",
+      "invite_week": "2026-08-23",
+      "weeks_wait": 13,
+      "queue_position": 765
     },
     {
-      "name": "Waterford",
-      "invite_week": "2026-08-24",
-      "weeks_wait": 14,
-      "queue_position": 1940
+      "name": "Clifden",
+      "invite_week": "2026-08-23",
+      "weeks_wait": 13,
+      "queue_position": 145
     },
     {
-      "name": "Dungarvan",
-      "invite_week": "2026-08-31",
-      "weeks_wait": 15,
-      "queue_position": 866
-    },
-    {
-      "name": "Killester",
-      "invite_week": "2026-08-31",
-      "weeks_wait": 15,
-      "queue_position": 1461
-    },
-    {
-      "name": "Loughrea",
-      "invite_week": "2026-08-31",
-      "weeks_wait": 15,
-      "queue_position": 538
-    },
-    {
-      "name": "Tralee",
-      "invite_week": "2026-08-31",
-      "weeks_wait": 15,
-      "queue_position": 1033
+      "name": "Clonmel",
+      "invite_week": "2026-08-23",
+      "weeks_wait": 13,
+      "queue_position": 744
     },
     {
       "name": "Donegal",
-      "invite_week": "2026-09-07",
-      "weeks_wait": 16,
-      "queue_position": 528
+      "invite_week": "2026-08-23",
+      "weeks_wait": 13,
+      "queue_position": 422
     },
     {
-      "name": "Drogheda - Southgate",
-      "invite_week": "2026-09-07",
-      "weeks_wait": 16,
-      "queue_position": 1264
+      "name": "Kilrush",
+      "invite_week": "2026-08-23",
+      "weeks_wait": 13,
+      "queue_position": 213
     },
     {
-      "name": "Raheny",
-      "invite_week": "2026-09-07",
-      "weeks_wait": 16,
-      "queue_position": 2119
+      "name": "Letterkenny",
+      "invite_week": "2026-08-23",
+      "weeks_wait": 13,
+      "queue_position": 841
+    },
+    {
+      "name": "Tallaght",
+      "invite_week": "2026-08-23",
+      "weeks_wait": 13,
+      "queue_position": 5973
+    },
+    {
+      "name": "Waterford",
+      "invite_week": "2026-08-23",
+      "weeks_wait": 13,
+      "queue_position": 1770
+    },
+    {
+      "name": "Ballina",
+      "invite_week": "2026-08-30",
+      "weeks_wait": 14,
+      "queue_position": 555
+    },
+    {
+      "name": "Loughrea",
+      "invite_week": "2026-08-30",
+      "weeks_wait": 14,
+      "queue_position": 492
+    },
+    {
+      "name": "Portlaoise - Maldron Hotel",
+      "invite_week": "2026-08-30",
+      "weeks_wait": 14,
+      "queue_position": 930
+    },
+    {
+      "name": "Cavan",
+      "invite_week": "2026-09-06",
+      "weeks_wait": 15,
+      "queue_position": 851
+    },
+    {
+      "name": "Killarney",
+      "invite_week": "2026-09-06",
+      "weeks_wait": 15,
+      "queue_position": 482
+    },
+    {
+      "name": "Killester",
+      "invite_week": "2026-09-06",
+      "weeks_wait": 15,
+      "queue_position": 1369
+    },
+    {
+      "name": "Monaghan",
+      "invite_week": "2026-09-06",
+      "weeks_wait": 15,
+      "queue_position": 364
+    },
+    {
+      "name": "Tralee",
+      "invite_week": "2026-09-06",
+      "weeks_wait": 15,
+      "queue_position": 994
     },
     {
       "name": "Kilkenny (Govt Buildings)",
-      "invite_week": "2026-09-14",
+      "invite_week": "2026-09-13",
+      "weeks_wait": 16,
+      "queue_position": 826
+    },
+    {
+      "name": "Drogheda - Southgate",
+      "invite_week": "2026-09-20",
       "weeks_wait": 17,
-      "queue_position": 847
+      "queue_position": 1330
+    },
+    {
+      "name": "Raheny",
+      "invite_week": "2026-09-20",
+      "weeks_wait": 17,
+      "queue_position": 2255
     },
     {
       "name": "Mulhuddart",
-      "invite_week": "2026-09-28",
+      "invite_week": "2026-10-04",
       "weeks_wait": 19,
-      "queue_position": 2661
+      "queue_position": 2638
     }
   ]
 }
