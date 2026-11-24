@@ -34,6 +34,7 @@ def scrape():
     print(f"Found {len(centres)} test centres")
 
     results = []
+    model_published = ""
     for i, centre in enumerate(centres, 1):
         name = centre["name"]
         if i > 1:
@@ -47,6 +48,8 @@ def scrape():
             details = fetch_json(
                 f"{BASE_URL}/_api/rsa_estimations({est['rsa_estimationid']})"
             )
+            if not model_published:
+                model_published = details.get("rsa_modelpublisheddate", "")[:10]
             results.append(
                 {
                     "name": name,
@@ -61,9 +64,12 @@ def scrape():
 
     results.sort(key=lambda x: x["weeks_wait"])
 
+    if not results:
+        raise RuntimeError("No centres were scraped; data/latest.json was not updated")
+
     output = {
         "scraped_at": datetime.now(timezone.utc).isoformat(),
-        "model_published": details.get("rsa_modelpublisheddate", "")[:10],
+        "model_published": model_published,
         "centres": results,
     }
 
